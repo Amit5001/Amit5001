@@ -1,4 +1,8 @@
 ### Hi there 👋
+Mechanical Engineer student, working on Intel.
+
+Currently learning: Control systems, ML and CV.
+Loves DIY projects
 
 <!--
 **Amit5001/Amit5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
